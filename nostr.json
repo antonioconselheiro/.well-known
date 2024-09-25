@@ -1,7 +1,8 @@
 {
   "names": {
     "anarcanudos": "ff538df85b8d3e503f5b9f416a12cb5522f27e6edd247374964fc214c16cd309",
-    "btc2poke": "3c9b6600387f906a4c7b713ae9cf603b780d72a141cc6cd98e3700c06aeff970"
+    "btc2poke": "3c9b6600387f906a4c7b713ae9cf603b780d72a141cc6cd98e3700c06aeff970",
+    "yearprogress": "d5acac6e0557f322fad2b07ce33a5a8c2cdb51e08df4695325ceb3c2cd75a631"
   },
   "relays": {
     "ff538df85b8d3e503f5b9f416a12cb5522f27e6edd247374964fc214c16cd309": [
@@ -10,6 +11,9 @@
     ],
     "3c9b6600387f906a4c7b713ae9cf603b780d72a141cc6cd98e3700c06aeff970": [
       "wss://af.purplerelay.com",
+      "wss://purplepag.es"
+    ],
+    "d5acac6e0557f322fad2b07ce33a5a8c2cdb51e08df4695325ceb3c2cd75a631": [
       "wss://purplepag.es"
     ]
   }
